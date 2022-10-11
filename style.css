@@ -86,13 +86,7 @@ h6{
     height: 100%;
     /* background-color: chartreuse; */
 }
-/* #app-row>.container>.wrapper>.row:first-child{
-    background-color: rgb(142, 42, 42)
-}
 
-#app-row>.container>.wrapper>.row:last-child{
-    background-color: rgb(24, 185, 163)
-} */
 #nav-lang{
     float: right;
 }
@@ -239,18 +233,6 @@ footer>.row>.container .col{
     padding-top: 10px;
     float: left;
 }
-/* footer>.row>.container>.col:first-child{
-    background-color: green;
-}
-footer>.row>.container>.col:nth-child(2){
-    background-color: blue;
-}
-footer>.row>.container>.col:nth-child(3){
-    background-color: pink;
-}
-footer>.row>.container>.col:nth-child(4){
-    background-color: yellow;
-} */
 
 footer>.row>.container>.col h2{
     padding-bottom: 16px;
@@ -426,13 +408,6 @@ main>.row:first-child>.container>div:first-child>ul li a:hover img{
     border: 3px solid #ffde00;
 }
 
-/* Row-2 */
-
-/* main>.row:nth-child(2)>.container{
-     height: 300px; 
-    background-color: yellow; 
-} */
-
 main>.row:nth-child(2)>.container>div:first-child{
     height: 100%;
     width: 75%;
@@ -601,19 +576,6 @@ main>.row:nth-child(3)>.container>.col{
     overflow: hidden;
 }
 
-/* main>.row:nth-child(3)>.container>.col:first-child{
-    background-color: red;
-}
-main>.row:nth-child(3)>.container>.col:nth-child(2){
-    background-color: green;
-}
-main>.row:nth-child(3)>.container>.col:nth-child(3){
-    background-color: yellowgreen;
-}
-main>.row:nth-child(3)>.container>.col:nth-child(4){
-    background-color: pink;
-} */
-
 main>.row:nth-child(3)>.container>.col img{
     width: 100%;
     display: block;
@@ -681,10 +643,6 @@ main>.row:nth-child(4)>.container>.col:nth-child(2){
     text-align: center;
     display: table-cell;
 }
-/* main>.row:nth-child(4)>.container>.col:nth-child(3){
-    width: 25%;
-    background-color: blue;
-} */
 main>.row:nth-child(4){
     padding-bottom: 20px;
 }
