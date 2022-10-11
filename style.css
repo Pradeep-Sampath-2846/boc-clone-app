@@ -234,11 +234,15 @@ footer>.row>.container .col{
     float: left;
 }
 
-footer>.row>.container>.col h2{
+footer>.row>.container>.col h3{
     padding-bottom: 16px;
-    text-align: center;
     color: white;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
 
+}
+footer>.row>.container>.col nav li a:hover{
+    color: #fada05;
 }
 
 footer>.row .col:last-child{
@@ -248,13 +252,17 @@ footer>.row .col:last-child{
 
 footer>.row>.container>.col>nav li{
     line-height: 1.4rem;
-    text-align: center;
     
 }
 footer>.row .col:last-child{
+    line-height: 1.1rem;
+    font-size: 0.75rem;
     padding-left: 15px;
     /* text-align: center; */
     background-color: #3a3a3d;
+}
+footer>.row .col:last-child p{
+    padding-bottom: 8px;
 }
 footer>.row>.container>.col>nav li>a{
     color: white;
@@ -307,7 +315,7 @@ aside a{
 }
 
 aside a ion-icon{
-    color: white;
+    color: #000000;
     padding-right: 10px;
 }
 #bubble-wrapper{
@@ -510,7 +518,7 @@ main>.row:nth-child(2)>.container>.col:last-child>ul>li>a>div:first-child{
 .slide ion-icon{
     color: white;
     vertical-align: sub;
-}About
+}
 #slide-1{
     background-image: url(https://boc.lk/image/data/Banner/200Day_investment-2022-Sept-Web.jpg);
 }
@@ -535,11 +543,15 @@ main>.row:nth-child(2)>.container>.col:last-child>ul>li>a>div:first-child{
     background-image: url(https://boc.lk/image/data/Banner/power-branch-close-2022-En-1.jpg);
 }
 #slider-wrapper{
+    height: 100%;
+    overflow: hidden;
+}
+#slide-wrapper{
     width: 100%;
     position: relative;
     animation-name: slider-animation;
     animation-iteration-count: infinite;
-    animation-duration: 15s;
+    animation-duration: 20s;
 }
 
 
@@ -548,13 +560,13 @@ main>.row:nth-child(2)>.container>.col:last-child>ul>li>a>div:first-child{
     0%,10%{
         left: 0;
     }
-    15%,26%{
+    16%,26%{
         left: -100%;
     }
     32%,58%{
         left: -200%;
     }
-    64%,576%{
+    64%,76%{
         left: -300%;
     }
     82%,94%{
@@ -667,6 +679,7 @@ main>.row:nth-child(4)>.container>.col:last-child>p:first-of-type{
     background-color: #aba6a6d4;
     border-radius: 5px;
     box-shadow: 0 0 6px #000000ab;
+    z-index: 2;
 }
 #popup p{
     margin-top: 35px;
