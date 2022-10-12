@@ -49,6 +49,10 @@ ___
 
 ## How to use this repo?
 
+ [@visit](https://pradeep-sampath-2846.github.io/boc-clone-app/)
+ 
+ or
+
 ```bash
 # Open the terminal 
 
