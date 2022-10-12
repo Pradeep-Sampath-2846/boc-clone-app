@@ -16,11 +16,11 @@
 ___
 
 ##  Snapshots
-![screenshot](images/Screenshot_1.png)
+![screenshot](/img/snapshot1.png)
 <br>
 ---
 
-![screenshot](images/Screenshot_2.png)
+![screenshot](/img/snapshot2.png)
 
 ---
 ## Built With :
@@ -30,13 +30,15 @@ ___
 #### HTML5 :
 
 - Semantic Elements
-- Images
+- Media Elements
 
 
 [![css_logo](https://forthebadge.com/images/badges/uses-css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### CSS3 :
 
+- Typonography & Iconography
+- Positioning
 - Transform Function
 - Transition
 - CalC
@@ -71,6 +73,6 @@ $ npx serve
 
 ## Contact
 
-> GitHub [@pradeep sampath](https://github.com/pradeepsampath) 
+> GitHub [@pradeep sampath](https://github.com/Pradeep-Sampath-2846) 
 >
-> Linkedin [@pradeep sampath](https://www.linkedin.com)
+> Linkedin [@pradeep sampath](https://www.linkedin.com/in/pradeep-sampath-2b9a07148?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bxo9ZLLlrSNyNvlUu0QnUPQ%3D%3D)
